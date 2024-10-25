@@ -1,0 +1,11 @@
+discord.py
+comtypes
+pycaw
+mss
+opencv-python
+pyautogui
+pypiwin32
+sounddevice
+scipy
+requests
+psutil
